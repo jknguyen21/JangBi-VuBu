@@ -5,9 +5,9 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
         {
-            host: "ether.lunarnodes.xyz",
-            port: 6969,
-            password: "lunarnodes.xyz",
+            host: "45.43.163.132",
+            port: 88,
+            password: "stonemusicgay",
             secure: false
         },
     ];
