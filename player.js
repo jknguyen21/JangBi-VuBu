@@ -5,9 +5,9 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
         {
-            host: "lavalink4.alfari.id",
-            port: 80,
-            password: "catfein",
+            host: "va-1.riseservers.net",
+            port: 2333,
+            password: "ilovemonkeys",
             secure: false
         },
     ];
